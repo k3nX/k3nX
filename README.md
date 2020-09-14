@@ -1,8 +1,7 @@
 ### Hi there, I'm K3nX alias 0xK3nX 👋
 
 ## I'm Linux and Security Enthusiast , CTF Player wanna be a Professional Pentester or Red Team Enginner
-- 🌱 I’m currently learning pentesting and red team
-- 🥅 2020 Goals: Contribute more to Open Source Projects, LPIC 1 and eJPT Certification
+- 🌱 I’m currently trying to become a pentester or red teamer
 - ⚡ Fun fact: I love to smoking cigarette ,listen music and play guitar
 
 
